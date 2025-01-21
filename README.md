@@ -18,3 +18,5 @@ This project retrieves historical cryptocurrency data from Binance using the `cc
    ```bash
    git clone https://github.com/yourusername/crypto-historical-data.git
    cd crypto-historical-data
+   pip install -r requirements.txt
+   python main.py
