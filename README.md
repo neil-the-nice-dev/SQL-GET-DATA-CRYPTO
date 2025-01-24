@@ -19,4 +19,4 @@ This project retrieves historical cryptocurrency data from Binance using the `cc
    git clone https://github.com/neil-the-nice-dev/SQL-GET-DATA-CRYPTO.git
    cd SQL-GET-DATA-CRYPTO
    pip install -r requirements.txt
-   python main.ipynb
+   
