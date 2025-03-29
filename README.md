@@ -1,4 +1,4 @@
-# Crypto Historical Data to PostgreSQL
+# Crypto Historical Data to PostgreSQL (maintenance !!! )
 
 This project retrieves historical cryptocurrency data from Binance using the `ccxt` library and saves it to a PostgreSQL database.
 
